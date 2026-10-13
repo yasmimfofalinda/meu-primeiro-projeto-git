@@ -1,2 +1,7 @@
 # meu-primeiro-projeto-git
- Projeto para aprender conceitos básicos de versionamento com Git e GitHub.
+ # Material de Estudo - Versão Inicial
+
+- Conceito 1: Versionamento
+- Conceito 2: Repositório
+- A meta é adicionar 5 conceitos essenciais.
+- Conceito 3: Commit
